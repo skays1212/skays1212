@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=3&text=YOONSUNG's%20GITHUB&reversal=false&textBg=false&section=header&fontAlignY=200&fontAlign=35&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=3&text=YOONSUNG's%20GITHUB&reversal=false&textBg=false&section=header&fontAlignY=35&fontAlign=35&fontSize=60)
