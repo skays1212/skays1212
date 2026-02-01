@@ -1,1 +1,1 @@
-![Header](https://github-readme-stats.vercel.app/api?type=waving@color=gradient&customcolorList=10&height=200&text=YOONSUNG's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+![header](https://github-readme-stats.vercel.app/api?type=waving@color=gradient&customcolorList=10&height=200&text=YOONSUNG's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
