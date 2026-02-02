@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=3&text=Yoonsung+Nam💻&reversal=false&textBg=false&section=header&fontAlignY=35&fontAlign=35&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=3&text=Yoonsung+Nam💻&reversal=false&textBg=false&section=header&fontAlignY=35&fontAlign=38&fontSize=70)
 
 <h2> 🚀 &nbsp;Now I'm Studying</h2>
 <p align="left">
