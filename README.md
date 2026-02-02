@@ -21,11 +21,11 @@
 
 <div align=left><h2>📶 My Stats</h2>
  
-[![My GitHub stats](https://github-readme-stats-topaz-omega-14.vercel.app/api?username=ParkSeongGeun)](https://github-readme-stats-topaz-omega-14.vercel)
+[![My GitHub stats](https://github-readme-stats-topaz-omega-14.vercel.app/api?username=skays1212)](https://github-readme-stats-topaz-omega-14.vercel)
 
 <br>
 
 <div align=left><h2>✅ Problem Solving</h2>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=phd0801)](https://solved.ac/phd0801)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=phd0801)](https://solved.ac/skays12)
