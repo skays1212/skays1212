@@ -28,4 +28,4 @@
 <div align=left><h2>✅ Problem Solving</h2>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=phd0801)](https://solved.ac/skays12)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=skays12)](https://solved.ac/skays12)
